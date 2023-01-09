@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-joyseb-dev-193348-authRole",
+      "UnauthRoleArn": "arn:aws:iam::439247036349:role/amplify-joyseb-dev-193348-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::439247036349:role/amplify-joyseb-dev-193348-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-joyseb-dev-193348-deployment",
+      "UnauthRoleName": "amplify-joyseb-dev-193348-unauthRole",
+      "StackName": "amplify-joyseb-dev-193348",
+      "StackId": "arn:aws:cloudformation:eu-west-1:439247036349:stack/amplify-joyseb-dev-193348/7005d9e0-8fce-11ed-8a16-0274d56aff67",
+      "AmplifyAppId": "d2s8g9e9jrq75y"
+    }
+  }
+}
