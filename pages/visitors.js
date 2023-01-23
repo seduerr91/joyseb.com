@@ -18,7 +18,7 @@ function Visitors() {
 
 
             <Text>Parking is possible right in front of our house or pretty good following SE Swenson Drive across the bridge.</Text>
-            <Text>Our I-90 highway exit is getting really busy both ways around rush hour (5:00pm - 7:30pm).ence, we recommend the highway exit at mile 27 and then to backtrack.</Text>
+            <Text>Our I-90 highway exit is getting really busy both ways around rush hour (5:00pm - 7:30pm). Hence, we recommend the highway exit at mile 27 and then to backtrack.</Text>
 
             
             <Text>Join our Wifi Network by scanning this QR code:</Text>
