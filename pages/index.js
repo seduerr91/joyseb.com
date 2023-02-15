@@ -17,12 +17,11 @@ function Home() {
               
               <Link href="/visitors">
                   <Card padding='1rem' justifyContent='center' variation='elevated' >
-                  <Flex direction="column" alignItems='center' justifyContent='center'>
+                  <Flex direction="column" alignItems='center' justifcyContent='center'>
                   <Heading>Vistors</Heading>
                   </Flex>
                 </Card> 
               </Link>
-              {/* <Image alt="Joy & Seb" src="./img/snoq2.png" width="40%" opacity="100%"/> */}
               
               <Link href="/suggestions">
                 <Card padding='1rem' justifyContent='center' variation='elevated' >
@@ -31,7 +30,6 @@ function Home() {
                   </Flex>
                 </Card> 
               </Link>
-              {/* <Image alt="hiking" src="./img/hiking.jpg" width="40%" opacity="100%"/> */}
               
               <Link href="/traveling">
                 <Card padding='1rem' justifyContent='center' variation='elevated' >
@@ -40,6 +38,23 @@ function Home() {
                   </Flex>
                 </Card> 
               </Link>
+              
+              <Link href="/recipes">
+                <Card padding='1rem' justifyContent='center' variation='elevated' >
+                  <Heading>Our Favorite Dishes</Heading>
+                  <Flex direction="column" alignItems='center' justifyContent='center'>
+                  </Flex>
+                </Card> 
+              </Link>
+
+              <Link href="/dates">
+                <Card padding='1rem' justifyContent='center' variation='elevated' >
+                  <Flex direction="column" alignItems='center' justifyContent='center'>
+                  <Heading>Our Important Dates</Heading>
+                  </Flex>
+                </Card> 
+              </Link>
+
 
             </Flex>
 
